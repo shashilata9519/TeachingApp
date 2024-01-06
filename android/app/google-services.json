@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453966963334",
+    "project_id": "xcool-365e6",
+    "storage_bucket": "xcool-365e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453966963334:android:5effcb6dcca785b7626707",
+        "android_client_info": {
+          "package_name": "com.xcool.mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453966963334-vp45lfoc07obtrg2t0hhsr9tvdge1prv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcgOz--4NX14moLi2BgJnOixruIs8lBN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453966963334-vp45lfoc07obtrg2t0hhsr9tvdge1prv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
